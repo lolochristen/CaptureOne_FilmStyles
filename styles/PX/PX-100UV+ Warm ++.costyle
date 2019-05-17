@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<SL Engine="900">
+	<E K="BwBlue" V="45" />
+	<E K="BwCyan" V="-12" />
+	<E K="BwDarkHue" V="341.411987304688" />
+	<E K="BwDarkSaturation" V="0" />
+	<E K="BwEnabled" V="1" />
+	<E K="BwGreen" V="-25" />
+	<E K="BwLightHue" V="341.411987304688" />
+	<E K="BwLightSaturation" V="0" />
+	<E K="BwMagenta" V="50" />
+	<E K="BwRed" V="14" />
+	<E K="BwYellow" V="-26" />
+	<E K="Clarity" V="-10" />
+	<E K="ClarityMethod" V="2" />
+	<E K="ClarityStructure" V="-3.33333301544189" />
+	<E K="ColorBalanceHighlight" V="1;1;1" />
+	<E K="ColorBalanceMidtone" V="1;1;1" />
+	<E K="ColorBalanceShadow" V="1;1;1" />
+	<E K="ColorCorrections" V="1,1,2,2.36563158035278,-15.9744558334351,0,174,139,97,0,25,-42.1264381408691,25.6254768371582,25,0,0,0,0" />
+	<E K="Contrast" V="0" />
+	<E K="FilmGrainAmount" V="15" />
+	<E K="FilmGrainDensity" V="0" />
+	<E K="FilmGrainGranularity" V="50" />
+	<E K="FilmGrainType" V="5" />
+	<E K="GradationCurve" V="0,0.388235002756119;0.376471012830734,0.494118005037308;0.603922009468079,0.623529016971588;0.862744987010956,0.745097994804382;1,0.811765015125275" />
+	<E K="GradationCurveBlue" V="0,0;0.376471012830734,0.372548997402191;0.603922009468079,0.588235020637512;0.862744987010956,0.839215993881226;1,0.972549021244049" />
+	<E K="GradationCurveGreen" V="0,0;0.376471012830734,0.372548997402191;0.603922009468079,0.596077978610992;0.862744987010956,0.854902029037476;1,0.996078014373779" />
+	<E K="GradationCurveRed" V="0,0.00784299988299608;0.376471012830734,0.388235002756119;0.603922009468079,0.603922009468079;0.862744987010956,0.862744987010956;1,1" />
+	<E K="GradationCurveY" V="0,0;0.200000002980232,0.200000002980232;0.400000005960464,0.395000010728836;0.600000023841858,0.592999994754791;0.800000011920929,0.792999982833862;1,1" />
+	<E K="Highlight" V="1;1;1;1" />
+	<E K="HighlightRecovery" V="5" />
+	<E K="Midtone" V="0;0;0;0.00547500001266599" />
+	<E K="Name" V="PX-100UV+ Warm ++" />
+	<E K="ShadowRecovery" V="8" />
+	<E K="StyleSource" V="Styles" />
+	<E K="TargetHighlight" V="1;1;1;0.975144982337952" />
+	<E K="UsmAmount" V="0" />
+	<E K="UsmRadius" V="1" />
+	<E K="UUID" V="11B20B3E-AD61-4FEB-A71F-E2AA4E3BDED7" />
+</SL>

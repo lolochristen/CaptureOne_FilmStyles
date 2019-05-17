@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<SL Engine="900">
+	<E K="BwBlue" V="-2" />
+	<E K="BwCyan" V="-20" />
+	<E K="BwDarkHue" V="341.411987304688" />
+	<E K="BwDarkSaturation" V="0" />
+	<E K="BwEnabled" V="1" />
+	<E K="BwGreen" V="15" />
+	<E K="BwLightHue" V="341.411987304688" />
+	<E K="BwLightSaturation" V="0" />
+	<E K="BwMagenta" V="13" />
+	<E K="BwRed" V="-2.5" />
+	<E K="BwYellow" V="-12.5" />
+	<E K="Clarity" V="0" />
+	<E K="ClarityMethod" V="2" />
+	<E K="ClarityStructure" V="0" />
+	<E K="ColorBalanceHighlight" V="1;1;1" />
+	<E K="ColorBalanceMidtone" V="1;1;1" />
+	<E K="ColorBalanceShadow" V="1;1;1" />
+	<E K="ColorCorrections" V="1,1,2,2.36563158035278,-15.9744558334351,0,174,139,97,0,25,-42.1264381408691,25.6254768371582,25,0,0,0,0" />
+	<E K="Contrast" V="0" />
+	<E K="FilmGrainAmount" V="15" />
+	<E K="FilmGrainDensity" V="0" />
+	<E K="FilmGrainGranularity" V="50" />
+	<E K="FilmGrainType" V="1" />
+	<E K="GradationCurve" V="0,0;0.0745100006461143,0.0823530033230782;0.215685993432999,0.223528996109962;1,1" />
+	<E K="GradationCurveBlue" V="0,0;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;0.200000002980232,0.217500001192093;0.400000005960464,0.384750008583069;0.600000023841858,0.561500012874603;0.800000011920929,0.761500000953674;1,1" />
+	<E K="Highlight" V="1;1;1;1" />
+	<E K="HighlightRecovery" V="27.5" />
+	<E K="Midtone" V="0;0;0;0.010950000025332" />
+	<E K="Name" V="Kodak BW400CN - -" />
+	<E K="ShadowRecovery" V="40" />
+	<E K="StyleSource" V="Styles" />
+	<E K="TargetHighlight" V="1;1;1;0.950290024280548" />
+	<E K="UsmAmount" V="25" />
+	<E K="UsmRadius" V="1" />
+	<E K="UUID" V="B44B70FB-0E9F-4D1A-9244-E4F4737454BD" />
+</SL>

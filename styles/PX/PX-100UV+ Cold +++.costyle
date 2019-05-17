@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<SL Engine="900">
+	<E K="BwBlue" V="45" />
+	<E K="BwCyan" V="-12" />
+	<E K="BwDarkHue" V="341.411987304688" />
+	<E K="BwDarkSaturation" V="0" />
+	<E K="BwEnabled" V="1" />
+	<E K="BwGreen" V="-25" />
+	<E K="BwLightHue" V="341.411987304688" />
+	<E K="BwLightSaturation" V="0" />
+	<E K="BwMagenta" V="50" />
+	<E K="BwRed" V="14" />
+	<E K="BwYellow" V="-26" />
+	<E K="Clarity" V="-15" />
+	<E K="ClarityMethod" V="2" />
+	<E K="ClarityStructure" V="-5" />
+	<E K="ColorBalanceHighlight" V="1;1;1" />
+	<E K="ColorBalanceMidtone" V="1;1;1" />
+	<E K="ColorBalanceShadow" V="1;1;1" />
+	<E K="ColorCorrections" V="1,1,2,2.36563158035278,-15.9744558334351,0,174,139,97,0,25,-42.1264381408691,25.6254768371582,25,0,0,0,0" />
+	<E K="Contrast" V="0" />
+	<E K="FilmGrainAmount" V="15" />
+	<E K="FilmGrainDensity" V="0" />
+	<E K="FilmGrainGranularity" V="50" />
+	<E K="FilmGrainType" V="5" />
+	<E K="GradationCurve" V="0,0.396077990531921;0.407842993736267,0.494118005037308;0.607842981815338,0.623529016971588;0.796078026294708,0.745097994804382;1,0.823529005050659" />
+	<E K="GradationCurveBlue" V="0,0.00392200006172061;0.407842993736267,0.400000005960464;0.607842981815338,0.564706027507782;0.796078026294708,0.709803998470306;1,0.886274993419647" />
+	<E K="GradationCurveGreen" V="0,0.00392200006172061;0.407842993736267,0.41176500916481;0.607842981815338,0.607842981815338;0.796078026294708,0.796078026294708;1,1" />
+	<E K="GradationCurveRed" V="0,0;0.407842993736267,0.400000005960464;0.607842981815338,0.596077978610992;0.796078026294708,0.788235008716583;1,0.992156982421875" />
+	<E K="GradationCurveY" V="0,0;0.200000002980232,0.200000002980232;0.400000005960464,0.395000010728836;0.600000023841858,0.592999994754791;0.800000011920929,0.792999982833862;1,1" />
+	<E K="Highlight" V="1;1;1;1" />
+	<E K="HighlightRecovery" V="5" />
+	<E K="Name" V="PX-100UV+ Cold +++" />
+	<E K="ShadowRecovery" V="8" />
+	<E K="StyleSource" V="Styles" />
+	<E K="TargetHighlight" V="1;1;1;1" />
+	<E K="UsmAmount" V="0" />
+	<E K="UsmRadius" V="1" />
+	<E K="UUID" V="F2580D0F-1B84-457D-9DA3-2B4ED558C11C" />
+</SL>

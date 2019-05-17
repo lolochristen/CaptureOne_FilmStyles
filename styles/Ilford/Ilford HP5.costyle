@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<SL Engine="900">
+	<E K="BwBlue" V="30.0000019073486" />
+	<E K="BwCyan" V="-10" />
+	<E K="BwDarkHue" V="341.411987304688" />
+	<E K="BwDarkSaturation" V="0" />
+	<E K="BwEnabled" V="1" />
+	<E K="BwGreen" V="-20" />
+	<E K="BwLightHue" V="341.411987304688" />
+	<E K="BwLightSaturation" V="0" />
+	<E K="BwMagenta" V="35" />
+	<E K="BwRed" V="2.5" />
+	<E K="BwYellow" V="-2.5" />
+	<E K="Clarity" V="0" />
+	<E K="ClarityMethod" V="2" />
+	<E K="ClarityStructure" V="0" />
+	<E K="ColorBalanceHighlight" V="0.9375;0.9375;0.9375" />
+	<E K="ColorBalanceMidtone" V="1.11111104488373;1.11111104488373;1.11111104488373" />
+	<E K="ColorBalanceShadow" V="0.875;0.875;0.875" />
+	<E K="ColorCorrections" V="1,1,2,2.36563158035278,-15.9744558334351,0,174,139,97,0,25,-42.1264381408691,25.6254768371582,25,0,0,0,0" />
+	<E K="Contrast" V="0" />
+	<E K="FilmGrainAmount" V="45" />
+	<E K="FilmGrainDensity" V="0" />
+	<E K="FilmGrainGranularity" V="50" />
+	<E K="FilmGrainType" V="1" />
+	<E K="GradationCurve" V="0,0.0392160005867481;1,1" />
+	<E K="GradationCurveBlue" V="0,0;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;0.200000002980232,0.200000002980232;0.400000005960464,0.39750000834465;0.600000023841858,0.596499979496002;0.800000011920929,0.796500027179718;1,1" />
+	<E K="Highlight" V="1;1;1;1" />
+	<E K="HighlightRecovery" V="2.5" />
+	<E K="Midtone" V="0;0;0;0.0018250000430271" />
+	<E K="Name" V="Ilford HP5" />
+	<E K="ShadowRecovery" V="8" />
+	<E K="StyleSource" V="Styles" />
+	<E K="TargetHighlight" V="1;1;1;0.991715013980865" />
+	<E K="UsmAmount" V="10" />
+	<E K="UsmRadius" V="1" />
+	<E K="UUID" V="33AA32FE-D35D-49E4-9658-8AA73233F3E3" />
+</SL>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<SL Engine="900">
+	<E K="BwBlue" V="10" />
+	<E K="BwCyan" V="0" />
+	<E K="BwDarkHue" V="341.411987304688" />
+	<E K="BwDarkSaturation" V="0" />
+	<E K="BwEnabled" V="1" />
+	<E K="BwGreen" V="-20" />
+	<E K="BwLightHue" V="341.411987304688" />
+	<E K="BwLightSaturation" V="0" />
+	<E K="BwMagenta" V="20" />
+	<E K="BwRed" V="5" />
+	<E K="BwYellow" V="-5" />
+	<E K="Clarity" V="-5" />
+	<E K="ClarityMethod" V="2" />
+	<E K="ClarityStructure" V="-1.66666698455811" />
+	<E K="ColorBalanceHighlight" V="1;1;1" />
+	<E K="ColorBalanceMidtone" V="1;1;1" />
+	<E K="ColorBalanceShadow" V="1;1;1" />
+	<E K="ColorCorrections" V="1,1,2,2.36563158035278,-15.9744558334351,0,174,139,97,0,25,-42.1264381408691,25.6254768371582,25,0,0,0,0" />
+	<E K="Contrast" V="0" />
+	<E K="FilmGrainAmount" V="30" />
+	<E K="FilmGrainDensity" V="0" />
+	<E K="FilmGrainGranularity" V="50" />
+	<E K="FilmGrainType" V="1" />
+	<E K="GradationCurve" V="0,0.0196080002933741;0.0666669979691505,0.0705880001187325;0.333332985639572,0.333332985639572;1,0.984314024448395" />
+	<E K="GradationCurveBlue" V="0,0;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;0.200000002980232,0.204999998211861;0.400000005960464,0.393500000238419;0.600000023841858,0.586000025272369;0.800000011920929,0.78600001335144;1,1" />
+	<E K="Highlight" V="1;1;1;1" />
+	<E K="HighlightRecovery" V="10" />
+	<E K="Midtone" V="0;0;0;0.00730000017210841" />
+	<E K="Name" V="Fuji Neopan 400" />
+	<E K="ShadowRecovery" V="16" />
+	<E K="StyleSource" V="Styles" />
+	<E K="TargetHighlight" V="1;1;1;0.966859996318817" />
+	<E K="UsmAmount" V="25" />
+	<E K="UsmRadius" V="1" />
+	<E K="UUID" V="B4DA2BE9-7500-4004-BAA7-622DEB59D002" />
+</SL>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+  <Product Id="*" Name="Capture One Film Styles" Language="1033" Version="1.0.0.0" Manufacturer="Lolo Christen" UpgradeCode="5587668d-188f-4766-bc3c-17ed91bdc1f2">
+		<Package InstallerVersion="300" Compressed="yes" InstallScope="perUser" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+    <MediaTemplate EmbedCab="yes" CompressionLevel="medium" />
+
+    <WixVariable Id="SourcePath" Value=".\styles"/>
+
+    <Feature Id="ProductFeature" Title="C1_FilmStyles" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="LocalAppDataFolder">
+        <Directory Id="CAPTUREONEAPPDATA" Name="CaptureOne">
+          <Directory Id="INSTALLFOLDER" Name="Styles50" />
+        </Directory>
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<!--<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+			<Component Id="ProductComponent">
+			</Component> 
+		</ComponentGroup>
+	</Fragment>-->
+</Wix>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<SL Engine="900">
+	<E K="BwBlue" V="32.5" />
+	<E K="BwCyan" V="0" />
+	<E K="BwDarkHue" V="341.411987304688" />
+	<E K="BwDarkSaturation" V="0" />
+	<E K="BwEnabled" V="1" />
+	<E K="BwGreen" V="-30" />
+	<E K="BwLightHue" V="341.411987304688" />
+	<E K="BwLightSaturation" V="0" />
+	<E K="BwMagenta" V="47.5" />
+	<E K="BwRed" V="13" />
+	<E K="BwYellow" V="1" />
+	<E K="Clarity" V="-10" />
+	<E K="ClarityMethod" V="2" />
+	<E K="ClarityStructure" V="-3.33333301544189" />
+	<E K="ColorBalanceHighlight" V="1;1;1" />
+	<E K="ColorBalanceMidtone" V="1;1;1" />
+	<E K="ColorBalanceShadow" V="1;1;1" />
+	<E K="ColorCorrections" V="1,1,2,2.36563158035278,-15.9744558334351,0,174,139,97,0,25,-42.1264381408691,25.6254768371582,25,0,0,0,0" />
+	<E K="Contrast" V="0" />
+	<E K="FilmGrainAmount" V="30" />
+	<E K="FilmGrainDensity" V="0" />
+	<E K="FilmGrainGranularity" V="50" />
+	<E K="FilmGrainType" V="4" />
+	<E K="GradationCurve" V="0,0.313726007938385;0.184313997626305,0.349020004272461;0.415686011314392,0.454901993274689;0.85097998380661,0.85097998380661;1,0.933332979679108" />
+	<E K="GradationCurveBlue" V="0,0;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;0.200000002980232,0.200000002980232;0.400000005960464,0.395000010728836;0.600000023841858,0.592999994754791;0.800000011920929,0.792999982833862;1,1" />
+	<E K="Highlight" V="1;1;1;1" />
+	<E K="HighlightRecovery" V="5" />
+	<E K="Name" V="Fuji FP-3000b +++" />
+	<E K="Shadow" V="0;0;0;0.0472729988396168" />
+	<E K="ShadowRecovery" V="8" />
+	<E K="StyleSource" V="Styles" />
+	<E K="TargetHighlight" V="1;1;1;1" />
+	<E K="TargetShadow" V="0;0;0;0" />
+	<E K="UsmAmount" V="0" />
+	<E K="UsmRadius" V="1" />
+	<E K="UUID" V="F4E45A14-30C3-4B35-9A57-374983FED50A" />
+</SL>

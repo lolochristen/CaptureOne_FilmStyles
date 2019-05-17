@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<SL Engine="900">
+	<E K="BwBlue" V="45.0000038146973" />
+	<E K="BwCyan" V="-21" />
+	<E K="BwDarkHue" V="341.411987304688" />
+	<E K="BwDarkSaturation" V="0" />
+	<E K="BwEnabled" V="1" />
+	<E K="BwGreen" V="-21" />
+	<E K="BwLightHue" V="341.411987304688" />
+	<E K="BwLightSaturation" V="0" />
+	<E K="BwMagenta" V="35" />
+	<E K="BwRed" V="-6" />
+	<E K="BwYellow" V="-31" />
+	<E K="Clarity" V="0" />
+	<E K="ClarityMethod" V="2" />
+	<E K="ClarityStructure" V="0" />
+	<E K="ColorBalanceHighlight" V="1;1;1" />
+	<E K="ColorBalanceMidtone" V="1;1;1" />
+	<E K="ColorBalanceShadow" V="1;1;1" />
+	<E K="ColorCorrections" V="1,1,2,2.36563158035278,-15.9744558334351,0,174,139,97,0,25,-42.1264381408691,25.6254768371582,25,0,0,0,0" />
+	<E K="Contrast" V="0" />
+	<E K="FilmGrainAmount" V="12" />
+	<E K="FilmGrainDensity" V="0" />
+	<E K="FilmGrainGranularity" V="50" />
+	<E K="FilmGrainType" V="5" />
+	<E K="GradationCurve" V="0,0.0627449974417686;0.172548994421959,0.200000002980232;0.478430986404419,0.513725996017456;0.698038995265961,0.749019980430603;0.894118010997772,0.933332979679108;1,1" />
+	<E K="GradationCurveBlue" V="0,0;1,1" />
+	<E K="GradationCurveGreen" V="0,0;1,1" />
+	<E K="GradationCurveRed" V="0,0;1,1" />
+	<E K="GradationCurveY" V="0,0;0.200000002980232,0.200000002980232;0.400000005960464,0.395000010728836;0.600000023841858,0.592999994754791;0.800000011920929,0.792999982833862;1,1" />
+	<E K="Highlight" V="1;1;1;1" />
+	<E K="HighlightRecovery" V="5" />
+	<E K="Name" V="Polaroid 665 +" />
+	<E K="Shadow" V="0;0;0;0.0189089998602867" />
+	<E K="ShadowRecovery" V="12" />
+	<E K="StyleSource" V="Styles" />
+	<E K="TargetHighlight" V="1;1;1;1" />
+	<E K="TargetShadow" V="0;0;0;0" />
+	<E K="UsmAmount" V="15" />
+	<E K="UsmRadius" V="1" />
+	<E K="UUID" V="2C9D7FDE-F6BA-4E77-99D4-3FE632AE2894" />
+</SL>
